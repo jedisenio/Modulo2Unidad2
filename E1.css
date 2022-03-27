@@ -1,0 +1,33 @@
+.contenedor{
+    border:2px solid; color: black;
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+
+.item1{
+background-color: red;
+}
+
+.item2{
+    background-color: blue;
+}
+
+.item3{
+   background-color: green; 
+}
+
